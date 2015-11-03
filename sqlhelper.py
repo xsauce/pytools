@@ -1,6 +1,3 @@
-__author__ = 'sam'
-__author__ = 'jhu'
-
 import settings
 import MySQLdb
 import functools
